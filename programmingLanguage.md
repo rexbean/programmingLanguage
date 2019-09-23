@@ -39,7 +39,7 @@ Both Compiled language and interpreted language are transfer high-level language
 - Java, C# are hybrid Language
 - This means the source code will be compiled into an intermideate code(byte code), then the byte code will be interpreted by a interpreter or Just-In-Time(JIT) compiler. 
   - Java will be compiled to the byte code then be compiled by the JIT compiler in the JVM. 
-  - C# will be compiled to IL(Intermediate Language) then it will be compiled by JIT compiler into machine code in the CLR(Common Language Runtime, which is a implementation of CLI(Common Language Infrastructure)). CLR is a part of .NET Framework.
+  - C# will be compiled to MSIL(Microsoft Intermediate Language) or IL(Intermediate Language) then it will be compiled by JIT compiler into machine code in the CLR(Common Language Runtime, which is a implementation of CLI(Common Language Infrastructure)). CLR is a part of .NET Framework.
 #### JIT(Just-In-Time) compilation
 - This compilation happens during the execution time not prior to it.
 - Goal: Combine the speed of the compiled code and the flexibility of interpration
