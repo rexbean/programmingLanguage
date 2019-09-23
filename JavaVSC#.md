@@ -1,12 +1,11 @@
 # Java Versus C#
 ## Java
+- If the software is going to run on Linus, UNIX and other platform outside Microsft platform, Java is a better choice.
+- New lanuage Scala, Groovy, Clojure are running on JVM.
 ## C#
 - C# is good at creating Microsoft destop apps.
 - C# works best on .NET Framework, mono, Portable .NET framework, the implementation of CLI.
 - C# is now more popular for the game development, even Vitual Reality.
-## Java
-- If the software is going to run on Linus, UNIX and other platform outside Microsft platform, Java is a better choice.
-- New lanuage Scala, Groovy, Clojure are running on JVM.
 ## Similarity
 - Both Java and C# is highly Object-Oriented languages providing various features.
 - They are both type-safe 
