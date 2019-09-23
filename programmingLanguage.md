@@ -43,6 +43,7 @@ Both Compiled language and interpreted language are transfer high-level language
 #### JIT(Just-In-Time) compilation
 - This compilation happens during the execution time not prior to it.
 - Goal: Combine the speed of the compiled code and the flexibility of interpration
+- [Referece](https://www.geeksforgeeks.org/what-is-just-in-time-jit-compiler-in-dot-net/)
 #### Advantages
 - Less memory used, other method will be executed will be compiled
 - Less page fault
